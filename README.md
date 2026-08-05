@@ -90,8 +90,6 @@ Observe the servo motor movement when an object is detected within **10 cm**.
 
 🎥 **Demo Video**
 
-```text
-videos/servo_90_degree.mp4
 
 https://github.com/user-attachments/assets/fb503fd5-af45-49e9-97f5-8a675b02e020
 
@@ -114,10 +112,6 @@ Evaluate the effect of increasing the servo rotation angle.
 * The sensor continued detecting objects accurately.
 
 🎥 **Demo Video**
-
-```text
-videos/servo_180_degree.mp4
-
 
 
 https://github.com/user-attachments/assets/76c48bff-8aed-4401-9903-9200bc0737a1
