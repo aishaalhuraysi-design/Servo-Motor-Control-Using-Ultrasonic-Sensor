@@ -65,7 +65,8 @@ The project also includes testing different servo angles and activation distance
 
 # 📷 Circuit Setup
 
-> Add your circuit image here.
+<img width="720" height="1280" alt="circuit_setup" src="https://github.com/user-attachments/assets/354c22e0-25ab-45ab-9dc4-51a76085081f" />
+
 
 ```markdown
 ![Circuit Setup](images/circuit_setup.jpg)
@@ -92,8 +93,7 @@ Observe the servo motor movement when an object is detected within **10 cm**.
 ```text
 videos/servo_90_degree.mp4
 
-
-https://github.com/user-attachments/assets/9bd5e30d-6fb9-4a39-a622-071e965a2d40
+https://github.com/user-attachments/assets/adfef9a7-f687-4bf9-923c-62affb943e03
 
 
 ```
@@ -118,10 +118,10 @@ Evaluate the effect of increasing the servo rotation angle.
 videos/servo_180_degree.mp4
 
 
-https://github.com/user-attachments/assets/0b97af26-ca2e-4bd0-be3e-8f41e984e1fb
+
+https://github.com/user-attachments/assets/985ce1de-cd1e-4c47-8c2c-3d160dfdaea2
 
 
-```
 
 ---
 
@@ -134,8 +134,6 @@ The project successfully demonstrated:
 * Successful testing of multiple servo angles.
 * Successful modification of the activation distance.
 * Stable system performance during all experiments.
-
-<img width="720" height="1280" alt="circuit_setup" src="https://github.com/user-attachments/assets/597fa390-c074-43cf-a5ed-4415e1b7a7d1" />
 
 
 ---
@@ -161,5 +159,5 @@ IT Graduate | Artificial Intelligence & Robotics Training
 Smart Methods Internship
 
 
-https://github.com/user-attachments/assets/e53401e8-7bc9-4765-982e-6693eda76f7d
+
 
