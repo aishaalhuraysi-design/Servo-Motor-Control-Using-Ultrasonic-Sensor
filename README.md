@@ -94,9 +94,8 @@ Observe the servo motor movement when an object is detected within **10 cm**.
 videos/servo_90_degree.mp4
 
 
-https://github.com/user-attachments/assets/1b0ee5ca-d1e2-436a-bac3-f22f428f2724
 
-
+https://github.com/user-attachments/assets/17c10c5c-05d0-41a9-881c-0086aa0b8897
 
 
 ```
@@ -122,7 +121,9 @@ videos/servo_180_degree.mp4
 
 
 
-https://github.com/user-attachments/assets/985ce1de-cd1e-4c47-8c2c-3d160dfdaea2
+https://github.com/user-attachments/assets/76c48bff-8aed-4401-9903-9200bc0737a1
+
+
 
 
 
