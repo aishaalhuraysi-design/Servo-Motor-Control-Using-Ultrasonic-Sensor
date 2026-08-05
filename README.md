@@ -114,7 +114,11 @@ Evaluate the effect of increasing the servo rotation angle.
 🎥 **Demo Video**
 
 
-https://github.com/user-attachments/assets/76c48bff-8aed-4401-9903-9200bc0737a1
+https://github.com/user-attachments/assets/be7a7e3d-06f9-4585-84b3-0aa78006c224
+
+
+
+
 
 
 
