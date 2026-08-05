@@ -148,14 +148,18 @@ The project successfully demonstrated:
 
 ---
 
-# 👩‍💻 Author
+---
 
-**Aisha Alhuraysi**
+# 🌟 Thank You
 
-IT Graduate | Artificial Intelligence & Robotics Training
+<p align="center">
 
-Smart Methods Internship
+## Thank you for visiting this repository!
 
+If you found this project helpful, feel free to explore the repository and its contents.
 
+⭐ Thank you for your visit!
+
+</p>
 
 
